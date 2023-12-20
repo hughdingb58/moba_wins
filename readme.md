@@ -11,9 +11,15 @@ Our project sections and corresponding notebooks are organized as follows:
 	- **notebooks/supervised.ipynb**: supervised modelling and analysis on the Dota 2 dataset, including chat features. Includes cleaning and exploration from 1_dota_exploration.ipynb (implementing milestone 1 feedback).
 	- **notebooks/unsupervised.ipynb**: unsupervised clustering on the Dota 2 dataset.
 
+**Contributors**:
+
+- Abhay Baliga
+- Hugh Ding
+- Seth Fleming
+
 # Data
 
-Our data involved the following two Kaggle datasets:
+Our data involves the following two Kaggle datasets:
 
 - [Dota 2 Matches](https://www.kaggle.com/datasets/devinanzelmo/dota-2-matches)
 - [League of Legends Ranked Matches](https://www.kaggle.com/datasets/paololol/league-of-legends-ranked-matches)
