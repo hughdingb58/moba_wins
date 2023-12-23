@@ -4,12 +4,12 @@ Our project sections and corresponding notebooks are organized as follows:
 
 - **Milestone 1**: we performed exploratory data analysis on League of Legends and Dota 2 datasets. Notebooks are as follows:
 	- **notebooks/1_dota_exploration.ipynb**: cleaning and exploration of Dota 2 data.
-	- **notebooks/2_league_exploration.ipynb**: cleaning and exploration of League of Legends data.
-	- **notebooks/3_cross_game_exploration.ipynb**: comparison of Dota 2 and League of Legends datasets.
+	- **notebooks/2_league_exploration.ipynb** (to be added): cleaning and exploration of League of Legends data.
+	- **notebooks/3_cross_game_exploration.ipynb** (to be added): comparison of Dota 2 and League of Legends datasets.
 - **Milestone 2**: building upon our work in milestone 1 for the Dota 2 dataset only, we modelled relationships between winning and in-game features, including manually engineered features like chat analysis. Notebooks are as follows:
-	- **notebooks/chat.ipynb**: chat sentiment and polarity feature engineering on Dota 2 chat logs.
+	- **notebooks/chat.ipynb** (to be added): chat sentiment and polarity feature engineering on Dota 2 chat logs.
 	- **notebooks/supervised.ipynb**: supervised modelling and analysis on the Dota 2 dataset, including chat features. Includes cleaning and exploration from 1_dota_exploration.ipynb (implementing milestone 1 feedback).
-	- **notebooks/unsupervised.ipynb**: unsupervised clustering on the Dota 2 dataset.
+	- **notebooks/unsupervised.ipynb** (to be added): unsupervised clustering on the Dota 2 dataset.
 
 **Contributors**:
 
